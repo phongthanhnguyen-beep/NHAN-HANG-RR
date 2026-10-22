@@ -40,6 +40,7 @@ def get_basket_name(category, is_spx=True):
 
 PREDEFINED_BASKETS = [
     'cb450',
+    'FD',
     'CB High Risk',
     'SBS',
     'HV',
